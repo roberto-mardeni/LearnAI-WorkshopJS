@@ -4,7 +4,7 @@
 
 ### Welcome
 
-Welcome to the Azure Bot Framework & Cognitive Services Workshop in Node.JS, an adaptation of the [Building Bots chapter in the LearnAI-Bootcamp][1].
+Welcome to the Azure Bot Framework & Cognitive Services Workshop in Node.JS, an adaptation of the [Building Bots chapter in the LearnAI-Bootcamp](https://github.com/Azure/LearnAI-Bootcamp/tree/master/lab02.2-building_bots).
 
 ### Goals
 
@@ -21,12 +21,12 @@ At the end of this workshop, you should be able to:
 
 ## Prerequisites
 
-- [Visual Studio Code][2]
-- [Node.js][3]
-- [Yeoman][4], which uses a generator to create a bot for you
-- [git][5]
-- [Bot Framework Emulator][6]
-- Knowledge of [restify][7] and asynchronous programming in JavaScript
+- [Visual Studio Code](https://www.visualstudio.com/downloads)
+- [Node.js](https://nodejs.org/)
+- [Yeoman](http://yeoman.io/), which uses a generator to create a bot for you
+- [git](https://git-scm.com/)
+- [Bot Framework Emulator](https://github.com/Microsoft/BotFramework-Emulator)
+- Knowledge of [restify](http://restify.com/) and asynchronous programming in JavaScript
 
 > The install of Windows build tools listed below is only required if you use Windows as your developemnt operating system.
 > For some installations the install step for restify is giving an error related to node-gyp.
@@ -47,11 +47,3 @@ At the end of this workshop, you should be able to:
 - Enhancing Applications with Bing Search
 - Publish and Register
 - QnA & Wrap Up
-
-[1]: [https://github.com/Azure/LearnAI-Bootcamp/tree/master/lab02.2-building_bots]
-[2]: [https://www.visualstudio.com/downloads]
-[3]: [https://nodejs.org/]
-[4]: [http://yeoman.io/]
-[5]: [https://git-scm.com/]
-[6]: [https://github.com/Microsoft/BotFramework-Emulator]
-[7]: [http://restify.com/]
